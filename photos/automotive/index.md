@@ -4,7 +4,7 @@ title:
 date:   
 categories: Photos
 ---
-# **Automotive Photography**
+# <strong>Automotive Photography</strong>
 This is a test page. Hello.
 [Instagram](https://instagram.com/feinfotos)
 
