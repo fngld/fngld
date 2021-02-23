@@ -1,6 +1,6 @@
 entries:
   - title: Photos
-    url: false
+    url: /photos/automotive
     entries:
       - title: Automotive
         url: /photos/automotive
