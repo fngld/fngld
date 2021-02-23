@@ -35,7 +35,8 @@ plugins:
   - jekyll-feed
 
 theme_config:
-    back_home_text: "home"
+    appearance: "auto"
+    back_home_text: "back"
     date_format: "%Y-%m-%d"
     show_description: false
 # Exclude from processing.
