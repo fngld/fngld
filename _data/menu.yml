@@ -2,10 +2,10 @@ entries:
   - title: me
     entries:
       - title: email
-        url: mailto:riccardo.graziosi97@gmail.com
-      - title: github
-        url: http://github.com/riggraz/
-      - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
+        url: https://google.com
+      - title: Instagram
+        url: https://instagram.com/jacob_feingold
+      - title: "keep in touch:
 
   - title: thoughts
     post_list: true
