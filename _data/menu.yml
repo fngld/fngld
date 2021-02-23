@@ -2,7 +2,7 @@ entries:
   - title: Photos
     entries:
       - title: Automotive
-        post_url: 2021-02-23-welcome-to-jekyll.md
+        url: https://fngld.github.io/jekyll/update/2021/02/23/welcome-to-jekyll.html
       - title: Other
         url: https://instagram.com/jacob_feingold
       - title: "keep in touch"
