@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Automotive Photography"
-date:   2021-02-23 00:11:36 -0800
+date:   
 categories: Photos
 ---
 This is a test page. Hello.
