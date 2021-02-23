@@ -2,7 +2,8 @@ entries:
   - title: Photos
     entries:
       - title: Automotive
-        url: 2023-02-23-Photos-Auto.md
+        post_list: true
+        limit 2
       - title: Other
         url: https://instagram.com/jacob_feingold
       - title: "keep in touch"
