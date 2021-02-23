@@ -1,10 +1,10 @@
 ---
 layout: page
-title:
+title: Automotive Photography
 date:   
 categories: Photos
 ---
-# <strong>Automotive Photography</strong>
+
 This is a test page. Hello.
 [Instagram](https://instagram.com/feinfotos)
 
