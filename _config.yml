@@ -30,8 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: riggraz/no-style-please
-plugins:
+remote_theme: no-style-please
   - jekyll-feed
 
 # Exclude from processing.
