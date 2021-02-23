@@ -1,9 +1,10 @@
 entries:
   - title: Photos
+    url: false
     entries:
       - title: Automotive
-        post_list: true
-        limit 2
+        url: /photos/automotive
+        entries: false
       - title: Other
         url: https://instagram.com/jacob_feingold
       - title: "keep in touch"
