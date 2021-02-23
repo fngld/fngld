@@ -7,4 +7,6 @@ categories: Photos
 #Automotive Photography
 This is a test page. Hello.
 [Instagram](https://instagram.com/feinfotos)
-![e30 M3](e30M3.jpg)
+<img src="e30M3.jpg"
+     alt="e30 BMW M3"
+     style="float: left; margin-right: 10px;" />
