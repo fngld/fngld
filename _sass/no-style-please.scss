@@ -26,6 +26,7 @@ html { height: 100%; }
 body {
   color: black;
   font-family: LeagueMono;
+  font-weight: normal;
   font-size: 1.3rem;
   line-height: 1.3;
   margin: 0;
@@ -99,15 +100,15 @@ img {
 @font-face {
 	font-family: "LeagueMono";
 	src: url("/assets/fonts/LeagueMono-Bold.woff");
-  font-variant: bold
+  font-variant: bold;
 }
 @font-face {
 	font-family: "LeagueMono";
 	src: url("/assets/fonts/LeagueMono-Medium.woff");
-  font-variant: medium
+  font-variant: medium;
 }
 @font-face {
 	font-family: "LeagueMono";
 	src: url("/assets/fonts/LeagueMono-ExtraBold.woff");
-  font-variant: extrabold
+  font-variant: extrabold;
 }
