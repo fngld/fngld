@@ -90,6 +90,24 @@ img {
   display: block;
   margin: 0 auto;
 }
+a:link {
+  color: rgb(155,0,37);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(155,0,37);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(155,0,37);
+}
+
+/* selected link */
+a:active {
+  color: rgb(155,0,37);
+}
 
 @font-face {
 	font-family: "LeagueMono";
