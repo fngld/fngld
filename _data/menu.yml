@@ -1,11 +1,11 @@
 entries:
-  - title: Photos
+  - title: photos
     url: false
     entries:
-      - title: Automotive
+      - title: automotive
         url: /photos/automotive
         entries: false
-      - title: Other
+      - title: other
         url: https://instagram.com/jacob_feingold
 
   - title: thoughts
