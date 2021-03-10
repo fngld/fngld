@@ -6,7 +6,6 @@ entries:
         url: /photos/automotive
         entries: false
       - title: other
-        url: https://instagram.com/jacob_feingold
-
+        url: https://instagram.com
   - title: thoughts
     post_list: true
